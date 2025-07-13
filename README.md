@@ -1,4 +1,14 @@
-## Hi there 👋
+## Helloooo 👋🏾
+
+I'm Layinka, you friendly neighbourhood Frontend Engineer with a with a love for Anime and Video games 😎.
+
+I started taking an interest in Blockchain believe it or not 😅. It's A LOTTTTTTT but I'm determined to learn and get my hands dirty (to a resonable extent of course 😂).
+
+### Fun facts:
+- I love Anime (my favourites include Cowboy Bebop, One Piece, Rurouni Kenshin, Demon Slayer, Jujutsu Kaisen, Sakamoto Days and so much more)
+- I'm a gamer girl...favs include COD, FIFA/EAFC, Tomb Raider, Uncharted, Killzone, Ghost of Tsushima and so much more)
+- I dislike coffee
+
 
 <!--
 **thisisyinka/thisisyinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
